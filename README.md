@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainebutbased
 - 👀 I’m interested in programming, vidya, weeb shit, and linux
-- 🌱 I’m currently rust programming language
+- 🌱 I’m currently learning rust programming language
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: discord is raine but christmas!!!#6233
 
